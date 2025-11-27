@@ -2,8 +2,6 @@
 
 This repository contains the source code, training, and evaluation scripts for an AI-assisted Diabetic Retinopathy (DR) screening system. The project benchmarks three state-of-the-art deep learning architectures—**ResNet-50**, **EfficientNet-B0**, and a **Vision Transformer (ViT-B/16)**—on a high-stakes, binary classification task: distinguishing **'No DR' (Healthy)** from **'Severe-Stage DR'**, with **Grad-CAM** revealing critical differences in model interpretability and trustworthiness.
 
-This work was developed by **Tarun Teja Pokala** and **Mohan Krishna Thiriveedhi** as a final project for a Machine Vision course (CS7367) offered by Kennesaw State University.
-
 ## 🚀 Project Goal
 
 The objective was to develop a fast and reliable deep learning system for early, targeted DR screening. By simplifying the standard 5-class DR grading into a binary classification task (Class 0: Healthy vs. Class 1: Severe/Proliferative), we focused on identifying high-risk cases that require immediate clinical attention.
