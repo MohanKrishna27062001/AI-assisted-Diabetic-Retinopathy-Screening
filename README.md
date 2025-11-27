@@ -1,4 +1,4 @@
-# 👁️ AI-assisted Diabetic Retinopathy Screening from Fundus Images
+<h1>👁️ AI-assisted Diabetic Retinopathy Screening from Fundus Images</h1>
 
 This repository contains the source code, training, and evaluation scripts for an AI-assisted Diabetic Retinopathy (DR) screening system. The project benchmarks three state-of-the-art deep learning architectures—**ResNet-50**, **EfficientNet-B0**, and a **Vision Transformer (ViT-B/16)**—on a high-stakes, binary classification task: distinguishing **'No DR' (Healthy)** from **'Severe-Stage DR'**, with **Grad-CAM** revealing critical differences in model interpretability and trustworthiness.
 
