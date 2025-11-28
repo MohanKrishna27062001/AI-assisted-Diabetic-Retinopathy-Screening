@@ -8,6 +8,7 @@ This project uses the **APTOS 2019 Blindness Detection Dataset** available on Ka
 
 🔗 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
+
 ## 🚀 Project Goal
 
 The objective was to develop a fast and reliable deep learning system for early, targeted DR screening. By simplifying the standard 5-class DR grading into a binary classification task (Class 0: Healthy vs. Class 1: Severe/Proliferative), we focused on identifying high-risk cases that require immediate clinical attention.
