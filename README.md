@@ -15,7 +15,7 @@ The objective was to develop a fast and reliable deep learning system for early,
 
 ## 💻 Repository Structure
 
-| File/Folder | Description |
+| File/Folder(src) | Description |
 | :--- | :--- |
 | `split_data.py` | Utility script used to filter the original dataset, map it to a balanced binary task, and perform the 60/20/20 train/validation/test split. |
 | `dataset.py` | Defines the `RetinopathyDataset` class and image transformation pipelines, including custom **CLAHE** (Contrast Limited Adaptive Histogram Equalization) for contrast enhancement. |
